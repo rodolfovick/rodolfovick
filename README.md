@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rodolfo Vick
 - 👀 I’m interested in Linux and Open Source.
 - 🌱 I’m currently learning R.
-<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 rodolfo dot vick at gmail dot com.
+<!--- - 💞️ I’m looking to collaborate on ... --->
 
 <!---
 rodolfovick/rodolfovick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
